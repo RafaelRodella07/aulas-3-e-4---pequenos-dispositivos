@@ -10,6 +10,3 @@ radio.onReceivedString(function (receivedString) {
     datalogger.log(datalogger.createCV("mensagem", receivedString))
 })
 radio.setGroup(7)
-basic.forever(function () {
-	
-})
