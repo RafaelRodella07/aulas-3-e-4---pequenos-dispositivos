@@ -1,5 +1,6 @@
 {
     "name": "Aulas 3 e 4 - Pequenos dispositivos, grandes ideias: micro:bit, nas ondas do rádio – Parte 2 14 de Outubro de 2025",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
